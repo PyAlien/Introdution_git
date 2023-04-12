@@ -4,4 +4,4 @@
 
 new linegit
 
-execute work
+Exit work
